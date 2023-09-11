@@ -41,9 +41,9 @@ Here is some new code I found recently. [Visit Hello](hello.py)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F48_PVjQp4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Video 2: Recommended Hack: How I Would Learn to Code
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k9WqpQp8VSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Luna's Page
 
+Go to my [Github account](https://github.com/lunaiwa) !!
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time.
