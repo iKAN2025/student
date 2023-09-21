@@ -14,7 +14,7 @@ Description
 
 <p>  <strong>   Summary of Accomplishments:</strong>  </p>
 
-Finished blog setup. Site is up and running. Tried making small changes to home page.
+Finished blog setup. Site is up and running. Tried making small changes to home page. 
 
 <p> <strong>  Discuss tools setup and troubles.</strong> </p>
 
