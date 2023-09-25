@@ -1,7 +1,6 @@
 ---
-toc: true
-comments: false
-layout: post
+
+layout: default
 title: Sample Daily Plan 
 description: Example Blog!!!  This shows planning and notes from hacks.
 type: plans
