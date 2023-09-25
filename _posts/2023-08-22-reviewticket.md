@@ -6,7 +6,7 @@ type: tangibles
 courses: { compsci: {week: 1}}
 ---
 
-### Sample Review Ticket • 1 min read
+### SReview Ticket • 1 min read
 Aug 21, 2023
 
 Description
