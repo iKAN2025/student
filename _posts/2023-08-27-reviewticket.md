@@ -20,7 +20,7 @@ Also included passion project page
 .5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack)
 <p> </p>
 
-score = 2.5/2.5
+score = 3.85/4
 
 
 ## peer grade
@@ -37,12 +37,12 @@ Also included passion project page
 .5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack)
 <p> </p>
 
-score = 2.5/2.5
+score =  3.85/4
 
 ## Lakshanya's Grade
 
 .5 point: Have a working HTML code cell in a notebook based on the wireframe 
-representation provided under HTML hacks (HTML Hack) Also included passion project page
+representation provided under HTML hacks (HTML Hack) Also included passion project page. Could be more advanced!
 <p> </p>
 .5 point: Have a working javascript code cell in a notebook based on the instructions provided under data types hacks (Data Types Hack)
 <p> </p>
@@ -53,11 +53,27 @@ representation provided under HTML hacks (HTML Hack) Also included passion proje
 .5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Works in site but not in jupyter notebook.....?
 <p> </p>
 
-2.5/2.5
-
+3.75/4
 
 
 ## Eun's Grade
+
+.5 point: Have a working HTML code cell in a notebook based on the wireframe representation provided under HTML hacks (HTML Hack). Added a Daily Study Tracker. 
+<p> </p>
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided under data types hacks (Data Types Hack)
+<p> </p>
+.5 point: Have a working javascript code cell in a notebook which modifies elements in the first HTML code cell hack or another HTML code cell based on the same wireframe representation (DOM Hack)
+<p> </p>
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided in the javascript hack (Javascript Hack)
+<p> </p>
+.5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Added a form for challenge.
+<p> </p>
+
+3.9/4 Good job on going above and beyond.
+
+
+
+## Avanthika's Grade
 
 .5 point: Have a working HTML code cell in a notebook based on the wireframe representation provided under HTML hacks (HTML Hack). Added a Daily STudy Tracker
 <p> </p>
@@ -70,7 +86,7 @@ representation provided under HTML hacks (HTML Hack) Also included passion proje
 .5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Added a form for challenge.
 <p> </p>
 
-2.5/2.5. Good job on going above and beyond.
+3.85/4 Good job on going above and beyond.
 
 
 
