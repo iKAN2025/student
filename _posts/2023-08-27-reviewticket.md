@@ -52,8 +52,9 @@ representation provided under HTML hacks (HTML Hack) Also included passion proje
 <p> </p>
 .5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Works in site but not in jupyter notebook.....?
 <p> </p>
-
-3.75/4
+utterances not working
+more sophistication needed
+3.8/4
 
 
 ## Eun's Grade
@@ -69,7 +70,7 @@ representation provided under HTML hacks (HTML Hack) Also included passion proje
 .5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Added a form for challenge.
 <p> </p>
 
-3.9/4 Good job on going above and beyond.
+3.8/4 Good job on going above and beyond.utterances not working
 
 
 
@@ -86,8 +87,8 @@ representation provided under HTML hacks (HTML Hack) Also included passion proje
 .5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Added a form for challenge.
 <p> </p>
 
-3.85/4 Good job on going above and beyond.
-
+3.85/4. 
+ Utterances working, needs more sophistication (maybe more passion projects ideasQ)
 
 
 
