@@ -6,7 +6,7 @@ courses: {'compsci': {'week': 6}}
 ---
 
 
-## Eun's Review
+## self grade
 
 .5 point: Have a working HTML code cell in a notebook based on the wireframe representation provided under HTML hacks (HTML Hack)
 Also included passion project page
@@ -20,7 +20,41 @@ Also included passion project page
 .5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack)
 <p> </p>
 
-score = 2/2.5
+score = 2.5/2.5
+
+
+## peer grade
+
+.5 point: Have a working HTML code cell in a notebook based on the wireframe representation provided under HTML hacks (HTML Hack)
+Also included passion project page
+<p> </p>
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided under data types hacks (Data Types Hack)
+<p> </p>
+.5 point: Have a working javascript code cell in a notebook which modifies elements in the first HTML code cell hack or another HTML code cell based on the same wireframe representation (DOM Hack)
+<p> </p>
+.0 point: Have a working javascript code cell in a notebook based on the instructions provided in the javascript hack (Javascript Hack). Works in Jupyter Notebook but not on the actual site
+<p> </p>
+.5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack)
+<p> </p>
+
+score = 2.5/2.5
+
+
+## group grade
+
+.5 point: Have a working HTML code cell in a notebook based on the wireframe representation provided under HTML hacks (HTML Hack)
+Also included passion project page
+<p> </p>
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided under data types hacks (Data Types Hack)
+<p> </p>
+.5 point: Have a working javascript code cell in a notebook which modifies elements in the first HTML code cell hack or another HTML code cell based on the same wireframe representation (DOM Hack)
+<p> </p>
+.0 point: Have a working javascript code cell in a notebook based on the instructions provided in the javascript hack (Javascript Hack). Works in Jupyter Notebook but not on the actual site
+<p> </p>
+.5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack)
+<p> </p>
+
+score = 2.5/2.5
 
 ## Lakshanya's Review
 
@@ -29,16 +63,18 @@ representation provided under HTML hacks (HTML Hack) Also included passion proje
 <p> </p>
 .5 point: Have a working javascript code cell in a notebook based on the instructions provided under data types hacks (Data Types Hack)
 <p> </p>
-.5 point: Have a working javascript code cell in a notebook which modifies elements in the first HTML code cell hack or another HTML code cell based on the same wireframe representation (DOM Hack)
+0 point: Have a working javascript code cell in a notebook which modifies elements in the first HTML code cell hack or another HTML code cell based on the same wireframe representation (DOM Hack) One of the hacks doesn't work.
 <p> </p>
-0 point: Have a working javascript code cell in a notebook based on the instructions provided in the javascript hack (Javascript Hack) Works in Jupyter Notebook but not on the actual site
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided in the javascript hack (Javascript Hack) Works in Jupyter Notebook but not on the actual site
 <p> </p>
-0 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Works in site but not in jupyter notebook.....?
+.5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Works in site but not in jupyter notebook.....?
 <p> </p>
 
+2/2.5
 
-1.5/2.5
-## Avanthika's Review
+
+
+## Eun's Review
 
 .5 point: Have a working HTML code cell in a notebook based on the wireframe representation provided under HTML hacks (HTML Hack)
 <p> </p>
