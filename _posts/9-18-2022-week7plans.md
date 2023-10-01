@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Week 6 Plans
+title: Week 7 Plans
 description: A Tech Talk on Linux and the Bash shell.
-courses: {'compsci': {'week': 6}}
+courses: {'compsci': {'week': 7}}
 type: plans
 ---
 
