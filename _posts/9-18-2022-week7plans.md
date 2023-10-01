@@ -17,30 +17,30 @@ type: plans
 </style>
 
 <body>
-These are my Week 6 plans!
+These are my Week 7 plans!
 <p>                 
 </p>
 <strong>Monday</strong>
 <div class="myDiv">
-  <ul> <li> Start on Basic Html Hacks. Discuss with team about shared repository/Flask. Think on passion prokect.</li> </ul>
+  <ul> <li> Shared Repository. Start AWS Deployment. Discuss project.</li> </ul>
 </div>
 
 <strong>Tuesday</strong>
 <div class="myDiv">
-    <ul> <li> Finish  Basic Html Hacks. Discuss with team about shared repository/Flask Fix errors with team. Think on pasion Project </li> </ul>
+    <ul> <li> Finish Frontend Design. Finish UML Layout. Finish AWS Deployment. Discuss Porject  </li> </ul>
 </div>
 
 <strong>Wednesday</strong>
 <div class="myDiv">
-    <ul> <li> Review AWS Deployment with Teacher. Peer Reviews/Utterance/Github</li> </ul>
+    <ul> <li> Prepare Live Review</li> </ul>
 </div>
 
 <strong>Thursday</strong>
 <div class="myDiv">
-    <ul> <li>  Prepare for Live Review.</li> </ul>
+    <ul> <li>  Change Home Page More. Start working on Python Teaching for Class</li> </ul>
 </div>
 
 <strong>Friday</strong>
 <div class="myDiv">
-    <ul> <li>  Start plans for next week, Python/Flask. Think about passion project./li> </ul>
+    <ul> <li> Look at plans for next week. </li> </ul>
 </div>
